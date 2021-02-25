@@ -4,7 +4,7 @@ Powered By icbug & AIYC
 
 >  本项目github地址:
 >
-> https://github.com/icbug-development-team/Django-code-editor
+> https://github.com/AndersonHJB/Python_Online_Programming
 
 #### 项目难点:
 
